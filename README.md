@@ -22,8 +22,9 @@ N/A
 
 ## Live Link
 
-
+https://frostyfaust.github.io/Webpage-Bio/
 
 ## Screenshot
 
+![frostyfaust github io_Webpage-Bio_](https://user-images.githubusercontent.com/55112932/225803295-6987f244-0a8d-47d6-94ac-4a48da52da75.png)
 
